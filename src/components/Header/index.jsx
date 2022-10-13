@@ -43,8 +43,10 @@ const Header = () => {
       toast.error("Nhập từ khóa cần tìm");
     }else{
     localStorage.setItem("find", JSON.stringify(find));
+    setFind(find);
     navigate("/find", { replace: true });
-    window.location.reload();
+    setFind(find);
+    // window.location.reload();
   }}
 
   const handleLogout = () => {
