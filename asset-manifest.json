@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Phu121091/ProjectPetshop/static/css/main.7abb2a50.css",
+    "main.js": "/Phu121091/ProjectPetshop/static/js/main.271a8de2.js",
+    "static/js/787.142da1d4.chunk.js": "/Phu121091/ProjectPetshop/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Phu121091/ProjectPetshop/index.html",
+    "main.7abb2a50.css.map": "/Phu121091/ProjectPetshop/static/css/main.7abb2a50.css.map",
+    "main.271a8de2.js.map": "/Phu121091/ProjectPetshop/static/js/main.271a8de2.js.map",
+    "787.142da1d4.chunk.js.map": "/Phu121091/ProjectPetshop/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abb2a50.css",
+    "static/js/main.271a8de2.js"
+  ]
+}
